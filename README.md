@@ -11,6 +11,6 @@ http://chromedriver.chromium.org
 
 6.All the selenium and cucumber jar files should be added as dependency libraries
 
-7.once all the above configurations are configured run the "TestRunner.java" file
+7.Once all the above configurations are configured run the "TestRunner.java" file
 
-8.Cucmber report can be found in the target/cucumber-reports folder
+8.Cucumber report can be found in the target/cucumber-reports folder
